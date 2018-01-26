@@ -62,7 +62,7 @@ public  class Main
                          Window_1 w = new Window_1("GAMES");
                          w.setVisible(true);
                          w.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
-                         w.setSize(600, 650);
+                         w.setSize(600, 600);
                          w.setResizable(false);
                          w.setLocationRelativeTo(null);
                      }
