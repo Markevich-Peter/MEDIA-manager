@@ -31,29 +31,29 @@ class  Window_3  extends JFrame
         super(s);
 
         setLayout(null);
-        all = new JButton("show all games");
+        all = new JButton("show all books");
         all.setBounds(120, 25, 200, 30);
-        all.setToolTipText("Если здесь нажать здесь, то можно увидеть все игры");
+        all.setToolTipText("click you'll see all books");
 
-        sorted = new JButton("sorted games");
+        sorted = new JButton("sorted books");
         sorted.setBounds(120, 105, 200, 30);
 
-        played = new JButton("played this game");
+        played = new JButton("read this book");
         played.setBounds(120, 145, 200, 30);
 
-        notplayed = new JButton("not played this game");
+        notplayed = new JButton("not read this book");
         notplayed.setBounds(120, 185, 200, 30);
 
-        editstatus = new JButton("edit status of game");
+        editstatus = new JButton("edit status of book");
         editstatus.setBounds(120, 225, 200, 30);
 
-        delete = new JButton("delete  this game");
+        delete = new JButton("delete  this book");
         delete.setBounds(120, 265, 200, 30);
 
-        namegames = new JLabel("Enter games");
+        namegames = new JLabel("Enter book");
         namegames.setBounds(30, 70, 100, 15);
 
-        add = new JButton("Add the game");
+        add = new JButton("Add the book");
         add.setBounds(120,305, 200, 30);
 
         show = new JLabel("results:");

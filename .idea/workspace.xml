@@ -3,9 +3,18 @@
   <component name="ChangeListManager">
     <list id="f7303d70-4123-457b-b4e3-f2068b8dc2f1" name="Default" comment="" />
     <list id="6135cebd-b8de-41c9-9539-e30233335ece" name="New changelist" comment="changes" />
-    <list default="true" id="a19b14f1-b2bd-4d24-babb-2695ae5e9821" name="desru" comment="sry">
+    <list default="true" id="a19b14f1-b2bd-4d24-babb-2695ae5e9821" name="desru" comment="in">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/FirstWindow$Event.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/FirstWindow$Event.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/FirstWindow.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/FirstWindow.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/Main.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/Window_1$Events$Edding$Event.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/Window_1$Events$Edding$Event.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/Window_1$Events$Edding.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/Window_1$Events$Edding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/Window_1$Events.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/Window_1$Events.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/peter/Window_1.class" afterPath="$PROJECT_DIR$/target/classes/com/peter/Window_1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/peter/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/peter/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/peter/Window_1.java" afterPath="$PROJECT_DIR$/src/main/java/com/peter/Window_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/peter/Window_3.java" afterPath="$PROJECT_DIR$/src/main/java/com/peter/Window_3.java" />
     </list>
     <ignored path="mmanager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+            <state relative-caret-position="1258">
+              <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -50,21 +59,22 @@
       <file leaf-file-name="Window_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="697">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding>
-                <marker date="1516974037453" expanded="true" signature="3911:3932" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="5057:5078" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="5246:6106" ph="..." />
-                <marker date="1516974037453" expanded="true" signature="7354:7406" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="8536:8588" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="9733:9786" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="9862:9915" ph=" UPDATE statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="10135:10156" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="13457:13497" ph=" DELETE statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="13463:13496" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="13716:13737" ph=" SELECT statement (GAMES)" />
-                <marker date="1516974037453" expanded="true" signature="17260:17318" ph=" INSERT statement (GAMES)" />
+                <element signature="imports" expanded="true" />
+                <marker date="1517756829937" expanded="true" signature="4378:4399" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="5524:5545" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="5713:6573" ph="..." />
+                <marker date="1517756829937" expanded="true" signature="7821:7873" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="9003:9055" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="10200:10253" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="10329:10382" ph=" UPDATE statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="10602:10623" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="13924:13964" ph=" DELETE statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="13930:13963" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="14183:14204" ph=" SELECT statement (GAMES)" />
+                <marker date="1517756829937" expanded="true" signature="17727:17785" ph=" INSERT statement (GAMES)" />
               </folding>
             </state>
           </provider>
@@ -88,17 +98,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Window_3.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Window_3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="348">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
-                <marker date="1511030895171" expanded="true" signature="3046:3067" ph=" SELECT statement (GAMES)" />
-                <marker date="1511030895171" expanded="true" signature="4191:4212" ph=" SELECT statement (GAMES)" />
-                <marker date="1511030895171" expanded="true" signature="5268:5320" ph=" SELECT statement (GAMES)" />
-                <marker date="1511030895171" expanded="true" signature="6450:6502" ph=" SELECT statement (GAMES)" />
-                <marker date="1511030895171" expanded="true" signature="7752:7773" ph=" SELECT statement (GAMES)" />
+                <marker date="1519728312109" expanded="true" signature="3017:3038" ph=" SELECT statement (GAMES)" />
+                <marker date="1519728312109" expanded="true" signature="4162:4183" ph=" SELECT statement (GAMES)" />
+                <marker date="1519728312109" expanded="true" signature="5239:5291" ph=" SELECT statement (GAMES)" />
+                <marker date="1519728312109" expanded="true" signature="6421:6473" ph=" SELECT statement (GAMES)" />
+                <marker date="1519728312109" expanded="true" signature="7723:7744" ph=" SELECT statement (GAMES)" />
               </folding>
             </state>
           </provider>
@@ -107,14 +117,14 @@
       <file leaf-file-name="Connection 1" pinned="false" current-in-tab="false">
         <entry file="db://c0b520d9-eca6-4680-ae6d-5c5c280ebacb/console#Connection 1">
           <provider selected="true" editor-type-id="0.CONSOLE">
-            <state line="8" column="7" selection-start="186" selection-end="244" vertical-scroll-proportion="-4.6896553" current-schema="media_manager" />
+            <state line="8" column="7" selection-start="186" selection-end="244" vertical-scroll-proportion="0.0" current-schema="media_manager" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="games" pinned="false" current-in-tab="false">
         <entry file="db://c0b520d9-eca6-4680-ae6d-5c5c280ebacb/object#[schema/table][media_manager/games]">
           <provider selected="true" editor-type-id="1.DATA">
-            <state row-count="6" readonly="false">
+            <state row-count="16" readonly="false">
               <columns>
                 <column name="id_games" position="0" visible="true" />
                 <column name="game_name" position="1" visible="true" />
@@ -140,6 +150,9 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -151,11 +164,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/peter/Window_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peter/Window_2.java" />
         <option value="[Connection 1] CONSOLE - Connection 1" />
-        <option value="$PROJECT_DIR$/src/main/java/com/peter/Window_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peter/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/peter/Window_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/peter/Window_3.java" />
       </list>
     </option>
   </component>
@@ -503,23 +516,31 @@
       <option name="project" value="LOCAL" />
       <updated>1516996627312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="in">
+      <created>1516997100578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516997100578</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1012" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13083538" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.49508598" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.46805897" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4035294" sideWeight="0.46805897" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27294117" sideWeight="0.2997543" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16686252" sideWeight="0.4662162" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4035294" sideWeight="0.53194106" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16588235" sideWeight="0.4563882" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27294117" sideWeight="0.7002457" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.497543" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -533,7 +554,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.49508598" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -554,7 +574,8 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="2730" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="sry" />
-    <option name="LAST_COMMIT_MESSAGE" value="sry" />
+    <MESSAGE value="in" />
+    <option name="LAST_COMMIT_MESSAGE" value="in" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -573,11 +594,11 @@
         <state relative-caret-position="527">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <marker date="1511030895171" expanded="true" signature="3046:3067" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="4191:4212" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="5268:5320" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="6450:6502" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="7752:7773" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="3017:3038" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="4162:4183" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="5239:5291" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="6421:6473" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="7723:7744" ph=" SELECT statement (GAMES)" />
           </folding>
         </state>
       </provider>
@@ -603,18 +624,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516974037453" expanded="true" signature="3911:3932" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="5057:5078" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="5246:6106" ph="..." />
-            <marker date="1516974037453" expanded="true" signature="7354:7406" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="8536:8588" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="9733:9786" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="9862:9915" ph=" UPDATE statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="10135:10156" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13457:13497" ph=" DELETE statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13463:13496" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13716:13737" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="17260:17318" ph=" INSERT statement (GAMES)" />
+            <element signature="imports" expanded="true" />
+            <marker date="1517756829937" expanded="true" signature="4378:4399" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="5524:5545" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="5713:6573" ph="..." />
+            <marker date="1517756829937" expanded="true" signature="7821:7873" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="9003:9055" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10200:10253" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10329:10382" ph=" UPDATE statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10602:10623" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="13924:13964" ph=" DELETE statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="13930:13963" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="14183:14204" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="17727:17785" ph=" INSERT statement (GAMES)" />
           </folding>
         </state>
       </provider>
@@ -640,11 +662,11 @@
         <state relative-caret-position="527">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <marker date="1511030895171" expanded="true" signature="3046:3067" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="4191:4212" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="5268:5320" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="6450:6502" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="7752:7773" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="3017:3038" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="4162:4183" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="5239:5291" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="6421:6473" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="7723:7744" ph=" SELECT statement (GAMES)" />
           </folding>
         </state>
       </provider>
@@ -670,18 +692,19 @@
         <state relative-caret-position="969">
           <caret line="57" column="27" selection-start-line="57" selection-start-column="8" selection-end-line="58" selection-end-column="40" />
           <folding>
-            <marker date="1516974037453" expanded="true" signature="3911:3932" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="5057:5078" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="5246:6106" ph="..." />
-            <marker date="1516974037453" expanded="true" signature="7354:7406" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="8536:8588" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="9733:9786" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="9862:9915" ph=" UPDATE statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="10135:10156" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13457:13497" ph=" DELETE statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13463:13496" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13716:13737" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="17260:17318" ph=" INSERT statement (GAMES)" />
+            <element signature="imports" expanded="true" />
+            <marker date="1517756829937" expanded="true" signature="4378:4399" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="5524:5545" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="5713:6573" ph="..." />
+            <marker date="1517756829937" expanded="true" signature="7821:7873" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="9003:9055" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10200:10253" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10329:10382" ph=" UPDATE statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10602:10623" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="13924:13964" ph=" DELETE statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="13930:13963" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="14183:14204" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="17727:17785" ph=" INSERT statement (GAMES)" />
           </folding>
         </state>
       </provider>
@@ -707,11 +730,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1511030895171" expanded="true" signature="3046:3067" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="4191:4212" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="5268:5320" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="6450:6502" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="7752:7773" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="3017:3038" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="4162:4183" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="5239:5291" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="6421:6473" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="7723:7744" ph=" SELECT statement (GAMES)" />
           </folding>
         </state>
       </provider>
@@ -870,37 +893,7 @@
     <entry file="db://[Connection 1] TABLE - media_manager.books" />
     <entry file="db://[Connection 1] TABLE - media_manager.books" />
     <entry file="db://[Connection 1] TABLE - media_manager.books" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <marker date="1511030895171" expanded="true" signature="3046:3067" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="4191:4212" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="5268:5320" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="6450:6502" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895171" expanded="true" signature="7752:7773" ph=" SELECT statement (GAMES)" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="db://[Connection 1] TABLE - media_manager.media" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4386">
-          <caret line="270" column="120" selection-start-line="270" selection-start-column="120" selection-end-line="270" selection-end-column="120" />
-          <folding>
-            <marker date="1511030895281" expanded="true" signature="3330:3351" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895281" expanded="true" signature="4475:4496" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895281" expanded="true" signature="5552:5604" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895281" expanded="true" signature="6734:6786" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895281" expanded="true" signature="8036:8057" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895281" expanded="true" signature="9856:9908" ph=" SELECT statement (GAMES)" />
-            <marker date="1511030895281" expanded="true" signature="11038:11090" ph=" SELECT statement (GAMES)" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/SQLError.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-383">
@@ -922,14 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/.idea/E.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -937,35 +922,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-          <folding>
-            <marker date="1516974037453" expanded="true" signature="3911:3932" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="5057:5078" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="5246:6106" ph="..." />
-            <marker date="1516974037453" expanded="true" signature="7354:7406" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="8536:8588" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="9733:9786" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="9862:9915" ph=" UPDATE statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="10135:10156" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13457:13497" ph=" DELETE statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13463:13496" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="13716:13737" ph=" SELECT statement (GAMES)" />
-            <marker date="1516974037453" expanded="true" signature="17260:17318" ph=" INSERT statement (GAMES)" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="db://[Connection 1] CONSOLE - Connection 1">
       <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="8" column="7" selection-start="186" selection-end="244" vertical-scroll-proportion="-4.6896553" current-schema="media_manager" />
+        <state line="8" column="7" selection-start="186" selection-end="244" vertical-scroll-proportion="0.0" current-schema="media_manager" />
       </provider>
     </entry>
     <entry file="db://[Connection 1] TABLE - media_manager.games">
       <provider selected="true" editor-type-id="1.DATA">
-        <state row-count="6" readonly="false">
+        <state row-count="16" readonly="false">
           <columns>
             <column name="id_games" position="0" visible="true" />
             <column name="game_name" position="1" visible="true" />
@@ -978,11 +942,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+        <state relative-caret-position="1258">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4386">
+          <caret line="270" column="120" selection-start-line="270" selection-start-column="120" selection-end-line="270" selection-end-column="120" />
+          <folding>
+            <marker date="1511030895281" expanded="true" signature="3330:3351" ph=" SELECT statement (GAMES)" />
+            <marker date="1511030895281" expanded="true" signature="4475:4496" ph=" SELECT statement (GAMES)" />
+            <marker date="1511030895281" expanded="true" signature="5552:5604" ph=" SELECT statement (GAMES)" />
+            <marker date="1511030895281" expanded="true" signature="6734:6786" ph=" SELECT statement (GAMES)" />
+            <marker date="1511030895281" expanded="true" signature="8036:8057" ph=" SELECT statement (GAMES)" />
+            <marker date="1511030895281" expanded="true" signature="9856:9908" ph=" SELECT statement (GAMES)" />
+            <marker date="1511030895281" expanded="true" signature="11038:11090" ph=" SELECT statement (GAMES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1517756829937" expanded="true" signature="4378:4399" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="5524:5545" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="5713:6573" ph="..." />
+            <marker date="1517756829937" expanded="true" signature="7821:7873" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="9003:9055" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10200:10253" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10329:10382" ph=" UPDATE statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="10602:10623" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="13924:13964" ph=" DELETE statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="13930:13963" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="14183:14204" ph=" SELECT statement (GAMES)" />
+            <marker date="1517756829937" expanded="true" signature="17727:17785" ph=" INSERT statement (GAMES)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peter/Window_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <marker date="1519728312109" expanded="true" signature="3017:3038" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="4162:4183" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="5239:5291" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="6421:6473" ph=" SELECT statement (GAMES)" />
+            <marker date="1519728312109" expanded="true" signature="7723:7744" ph=" SELECT statement (GAMES)" />
+          </folding>
         </state>
       </provider>
     </entry>

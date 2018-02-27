@@ -17,14 +17,14 @@ public  class Main
         FirstWindow f = new FirstWindow("MEDIATEKA");
         f.setVisible(true);                                     // сделать окно видимым
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);       //закроется если нажать  на крестик
-        f.setSize(400, 400);                                    //задается размер фрейма
+        f.setSize(300, 300);                                    //задается размер фрейма
         f.setResizable(false);                                  //нельзя растягитвать оено
         f.setLocationRelativeTo(null);                          //делает локацию фрейма по центру
 
 
 
 
-//        w.setSize(600, 600);
+//        w.setSize(300, 300);
 //        w.setResizable(false);
 //        w.setLocationRelativeTo(null);
     }
@@ -62,7 +62,7 @@ public  class Main
                          Window_1 w = new Window_1("GAMES");
                          w.setVisible(true);
                          w.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
-                         w.setSize(600, 600);
+                         w.setSize(600, 650);
                          w.setResizable(false);
                          w.setLocationRelativeTo(null);
                      }

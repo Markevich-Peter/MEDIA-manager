@@ -35,12 +35,18 @@ class  Window_1  extends JFrame
     JLabel namegames, show;
     JTextField game;
     JTextArea shown;
-    protected static String z;
+
     Events v = new Events();
 
     public Window_1(String s)
     {
-        super(s);
+        super(s);                                           //в коеструктор суперкласса посылается строка с заголовком
+                                          //здесь устанавливается розкладка во фрейме(пока по умолчанию)
+        JPanel p = new JPanel();                            //создание панели во фрейме
+//        getContentPane().add(p);                                            //добаление панели
+
+        p.setVisible(true);
+
         setLayout(null);
         all = new JButton("show all games");
         all. setBounds(120, 25, 200, 30);
@@ -74,13 +80,16 @@ class  Window_1  extends JFrame
         game.setBounds(120, 65, 200, 30);
 
         shown = new JTextArea();
-        shown.setBounds(120, 355, 400, 230);
+//        shown.setBounds(120, 355, 200, 230);
 
         shown.setLineWrap(true);
         shown.setWrapStyleWord(true);
-        add(namegames);
+
+        p.add(new JScrollPane(shown));
+
+        p.add(all);
+        p.add(namegames);
         add(game);
-        add(all);
         add(sorted);
         add(played);
         add(notplayed);
@@ -89,6 +98,7 @@ class  Window_1  extends JFrame
         add(add);
         add(show);
         add(shown);
+//        setContentPane(p);
         all.addActionListener(v);
         sorted.addActionListener(v);
         played.addActionListener(v);
